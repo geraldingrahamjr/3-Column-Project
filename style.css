@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.container {
+    width: 100%;
+    margin: auto;
+}
+.row {
+    margin: 20px;
+}
+.column{
+    float: left;
+}
+.col{
+    max-width: 375px;
+    height: 560px;
+    background-color: red;
+}
+.column-1{
+    background-color: red;
+}
+.column-2{
+    background-color: aquamarine;
+}
+.column-3{
+    background-color: black;
+}
