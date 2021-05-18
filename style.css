@@ -88,8 +88,9 @@ p {
         border-bottom-left-radius: 25px;
       }
       .column-3 {
-        border-top-left-radius: 0px;
         border-bottom-right-radius: 25px;
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 25px;
       }
         
       
